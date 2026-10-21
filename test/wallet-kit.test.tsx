@@ -1,3 +1,4 @@
+// @vitest-environment jsdom
 /**
  * Non-Freighter wallets via Stellar Wallets Kit (#344): connect through the
  * picker, sign transactions and messages through the adapter, graceful
